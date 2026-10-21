@@ -29,7 +29,7 @@ while True:
                     print("Invalid pattern choice.")
 
         case "2":
-            start = int(input("Enter the start of the range: "))
+            start = int(input("\nEnter the start of the range: "))
             end = int(input("Enter the end of the range: "))
 
             if start > end:
